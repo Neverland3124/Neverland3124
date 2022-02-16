@@ -1,11 +1,12 @@
-# Hi there, I'm Zhitao Xu (Felix) - a Junior Software Engineer! 👋 
+# Hi there, I'm Zhitao Xu (Felix) - a Junior Programmer! 👋 
 
 ## I'm a Student, Developer, and Game Lover
 
-- 🔭 I'm a ----------
-- 🌱 I’m currently learning C, 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: ----------
+- 🔭 I'm a student in University of Toronto Scarborough
+- 🌱 I’m currently learning C, SQL, HTML, CSS, Javascript, Python...
+- 👯 I’m looking to participate more in class and learn more knowledge
+- 🥅 2022 Goals: find a coop work!
+- I like to play APEX, The Witcher 3
 - ⚡ Fun fact: ----------
 
 ### Connect with me:
