@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C, SQL, HTML, CSS, Javascript, Python...
 - 👯 I’m looking to participate more in class and learn more knowledge
 - 🥅 2022 Goals: find a coop work!
-- ⚡ About myself: I like to play APEX, The Witcher 3
+- ⚡ About myself: I like to play APEX, The Witcher 3, Hearthstone...
 
 
 ## Connect with me:
