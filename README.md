@@ -3,7 +3,9 @@
 ## I'm a Student, Developer, and Game Lover
 
 - 🔭 I'm a student in University of Toronto Scarborough
-- 🌱 I’m currently learning C, SQL, HTML, CSS, Javascript, Python...
+- 🌱 I’m currently learning C, SQL, HTML, CSS, Javascript, Python
+- ✨ I had learned C, Java, Python...
+- 🚀 I am responsible and hardworking
 - 👯 I’m looking to participate more in class and learn more knowledge
 - 🥅 2022 Goals: find a coop work!
 - ⚡ About myself: I like to play APEX, The Witcher 3, Hearthstone...
