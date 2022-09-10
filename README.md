@@ -13,8 +13,8 @@
 
 ## Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zhitao-xu-8a9a9a229/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zhitao-xu-8a9a9a229/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zhitao-xu/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zhitao-xu/)
 &nbsp;&nbsp;
 
 ## Languages and Techniques:
