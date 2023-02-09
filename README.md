@@ -7,8 +7,8 @@
 - ✨ I had learned C, Java, Python, SQL, HTML, CSS, Javascript, NodeJs, React, Docker, Jira ...
 - 🚀 I am responsible and hardworking
 - 👯 I’m looking to participate more in class and learn more knowledge
-- 🥅 2022-2023 Goals: find a coop work!
-- ⚡ About myself: I like to play APEX, The Witcher 3, Hearthstone, God of War...
+- 🥅 2023 Goals: work hard in GM, have more exercises
+- ⚡ About myself: I like to play APEX, The Witcher 3, Hearthstone, God of War, Hit Man 3, Don't Starve...
 
 
 ## Connect with me:
