@@ -1,4 +1,4 @@
-# Hi there, I'm Zhitao Xu (Felix) - a Junior Programmer! 👋 
+# Hi there, I'm Zhitao Xu (Felix / NeverLand)! 👋 
 
 ## I'm a Student, Developer, and Game Lover
 
@@ -6,10 +6,9 @@
 - 🌱 I’m currently learning Cyper Security and Game Engine 
 - ✨ I had learned C, Java, Python, SQL, HTML, CSS, Javascript, NodeJs, React, Docker, Jira ...
 - 🚀 I am responsible and hardworking
-- 👯 I’m looking to participate more in class and learn more knowledge
-- 🥅 2023 Goals: work hard in GM, have more exercises
-- ⚡ About myself: I like to play APEX, The Witcher 3, Hearthstone, God of War, Hit Man 3, Don't Starve...
-
+- 👯 I’m looking to have a healthier life and learn more knowledge
+- 🥅 2023 Goals: work hard in GM, have more exercises, cutting, learn DBMS
+- ⚡ About myself: I like to play APEX, The Witcher 3, Hearthstone, Slay the Spire, Baldur's Gate 3, Don't Starve...
 
 ## Connect with me:
 
@@ -29,8 +28,3 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:10px;" />
-
-
-
-<br />
-<br />
