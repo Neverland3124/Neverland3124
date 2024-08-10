@@ -29,13 +29,11 @@
 | PostgreSQL | MySQL | Redis | MongoDB | SQLite | ClickHouse | BusTub |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="assets/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|<img src="assets/bustub.svg" title="BusTub" alt="BusTub" width="55" height="55"/>| 
+
 ---
 
-<p align="left">
-  <!-- When the profile get's better uncomment below -->
-  <!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=neverland3124&show_icons=true&theme=vision-friendly-dark"> -->
-  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverland3124&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neverland3124&show_icons=true&theme=vision-friendly-dark) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neverland3124&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
