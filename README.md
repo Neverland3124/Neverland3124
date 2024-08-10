@@ -3,7 +3,7 @@
 ## I'm a Programmer, Developer and Game Lover
 
 - 🔭 I graduated from `University of Toronto Scarborough`
-- 🌱 I'm currently learning `DBMS`, `Microservice`, `Distributed System` and `Cloud Programming`
+- 🌱 I'm currently learning `DBMS`, `Microservices`, `Distributed System` and `Cloud Programming`
 - 🚀 I'm responsible and hardworking
 - 👯 I'm looking to have a healthier life and learn more knowledge
 - 🥅 2024 Goals: find a job, have more exercises, learn more technologies
