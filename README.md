@@ -32,14 +32,15 @@
 
 ---
 
-<p align="center">
+<!-- center the stats -->
+<!-- <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=neverland3124&hide=contribs,issues&rank_icon=github&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverland3124&size_weight=0.0005&count_weight=0.3&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_progress=true">
-</p>
+</p> -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neverland3124\&hide=contribs,issues&rank_icon=github\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neverland3124&size_weight=0.0005&count_weight=0.3&layout=compact\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&hide_progress=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neverland3124&size_weight=0.0005&count_weight=0.3&layout=compact\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&hide_progress=true) -->
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
