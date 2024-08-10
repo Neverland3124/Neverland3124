@@ -1,20 +1,32 @@
 # Hi there, I'm Zhitao Xu (Felix / NeverLand)! 👋 
 
-## I'm a Student, Developer, and Game Lover
+## I'm a Developer and Game Lover
 
-- 🔭 I'm a student in University of Toronto Scarborough
-- 🌱 I’m currently learning Cyper Security and Game Engine 
-- ✨ I had learned C, Java, Python, SQL, HTML, CSS, Javascript, NodeJs, React, Docker, Jira ...
-- 🚀 I am responsible and hardworking
-- 👯 I’m looking to have a healthier life and learn more knowledge
-- 🥅 2023 Goals: work hard in GM, have more exercises, cutting, learn DBMS
-- ⚡ About myself: I like to play APEX, The Witcher 3, Hearthstone, Slay the Spire, Baldur's Gate 3, Don't Starve...
+- 🔭 I graduated from University of Toronto Scarborough
+- 🌱 I'm currently learning Database System Design and Cloud Programming
+- 🚀 I'm responsible and hardworking
+- 👯 I'm looking to have a healthier life and learn more knowledge
+- 🥅 2024 Goals: find a job, have more exercises,  learn DBMS
+- ⚡ About myself: I like to play APEX, CS2, The Witcher 3, Hearthstone, Slay the Spire, Baldur's Gate 3, Don't Starve...
 
 ## Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zhitao-xu/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zhitao-xu/)
 &nbsp;&nbsp;
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| C                                                                                                                             | C++                                                                                                                                               | Java                                                                                                                                      | Python                                                                                                                                            | JS                                                                                                                                                               | TS                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP"  alt="CPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> |
+
+### test
+| ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) | ![C++](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg) | ![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg) | ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| C | C++ | Java | Python | JavaScript | TypeScript |
 
 ## Languages and Techniques:
 
