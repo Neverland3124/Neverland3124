@@ -26,9 +26,9 @@
 
 ### DBMS:
 
-| PostgreSQL | MySQL | Redis | MongoDB | SQLite | ClickHouse | BusTub |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="assets/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|<img src="assets/bustub.svg" title="BusTub" alt="BusTub" width="55" height="55"/>| 
+| PostgreSQL | MySQL | Redis | MongoDB | SQLite | ClickHouse |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="assets/clickhouse.svg" title="ClickHouse" alt="ClickHouse" width="55" height="55"/>|
 
 ---
 
