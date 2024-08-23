@@ -32,10 +32,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neverland3124\&hide=contribs,issues&rank_icon=github\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neverland3124&layout=compact&hide=Assembly,Shell,Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neverland3124\&hide=issues&rank_icon=github\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neverland3124&layout=compact&hide=Assembly,Shell,Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ![Github Snack](assets/github-snake.svg)
