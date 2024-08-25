@@ -3,7 +3,7 @@
 ## I'm a Programmer, Developer and Game Lover
 
 - 🔭 I graduated from `University of Toronto Scarborough`
-- 🌱 I'm currently learning `DBMS`, `Microservices`, `Distributed System` and `Cloud Programming`
+- 🌱 I'm currently learning `GoLang`, `Distributed System` and `Cloud Programming`
 - 🚀 I'm responsible and hardworking
 - 👯 I'm looking to have a healthier life and learn more knowledge
 - 🥅 2024 Goals: find a job, have more exercises, learn more technologies
@@ -13,9 +13,10 @@
 <div>
 
 ### Languages:
-| C | C++ | Java | Kotlin | Python | JavaScript | TypeScript |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP"  alt="CPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> |
+| C | C++ | Java | Kotlin | Python | JavaScript | TypeScript | Go (Learning) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP"  alt="CPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg
+" title="Go" alt="Go" width="55" height="55"/> |
 
 
 ### Tools and Techniques:
